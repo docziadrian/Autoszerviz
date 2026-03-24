@@ -1,10 +1,6 @@
 # Autoszerviz - PHP feladat
 
-# Indítás:
-
-# 1. Adatbázis létrehozása: autoszerviz
-
-# 2. .sql importálása:
+# 1. Adatbázis létrehozása .sql importálásásval:
 
 ```CREATE DATABASE IF NOT EXISTS autoszerviz CHARACTER SET utf8mb4 COLLATE utf8mb4_hungarian_ci;
 USE autoszerviz;
